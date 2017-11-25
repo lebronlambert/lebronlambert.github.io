@@ -1,0 +1,58 @@
+# jemdoc: addcss{jemdoc.css}, nofooter
+\n
+
+= *Wenting Ye*
+
+{{<img src="BJ_2015.png" width=170 align="right" style=" padding-right: 20px; padding-top: 6px;"/> }}
+*Bachelor of Engineering* \n 
+
+
+Network Engineering\n
+[http://scs.bupt.edu.cn/cs_web/English/outer/index.htm School of Computer Science]\n
+[http://english.bupt.edu.cn/ Beijing University of Posts and Telecommunications] \n
+\n 
+
+*Email:* wenting_ye \[at\] bupt.edu.cn \n
+*Github:* [https://github.com/YeWenting Yewenting]\n
+*Linkedin:* [https://www.linkedin.com/in/wenting-%E6%96%87%E9%9C%86-ye-70aa42ba/ Wenting Ye]
+
+== Biography
+
+Wenting Ye is currently a junior student majored in network engineering at Beijing Univ. of Posts \& Telecoms. He has achieved excellent academic performance, including receiving three straight National Scholarships with overall GPA 91.07/100.
+Before that, he studied in Fuzhou No.1 Middle School, where he was a member of Olympiad in Informatics (OI) team. He won the first prize in National Olympiad in Informatics in Provinces (NOIP).
+
+He started his research in Sailing Lab in Oct 2016 with the mentor of [https://www.cs.cmu.edu/~haohanw/ Dr. Haohan Wang]. His main research interests include but are not limited to machine learning, data mining and computer vision. 
+
+Recently he has joined the [https://www.faceplusplus.com.cn/ Face\+\+] as a research intern, focusing on face recognition.
+
+== Experience
+
+*Research Intern*\n
+[https://www.faceplusplus.com.cn/ Face\+\+], Beijing, China, Oct 2017 -- Present\n
+- Focus on face recognition tasks in computer vision
+
+*Research Intern*\n
+[http://www.sailing.cs.cmu.edu/main/ Sailing Lab], Carnegie Mellon University, Pittsburgh, June 2017 -- Sep 2017\n
+- Proposed two structured variable selection models with confounding correction
+- Participated in building the genatic association database
+- Contributed to [http://genamap.org/ GenAMap]
+
+== Papers
+
+*Ye, W.* Liu, X. Wang, H. \& Xing, EP. A Sparse Graph-structured Lasso Mixed Model for Genetic Association with Confounding Correction. Bioinformatics submitted
+
+Liu, X., Wang, H., *Ye, W.* \& Xing, EP. Sparse Variable Selection in High Dimensional Heterogeneous Data with Tree Structured Responses AAAI 2018 submitted
+
+Cao, J. Wu, Z. *Ye, W.* \& Wang H. Learning Functional Embedding of Genes Governed by Pair-wised Labels. ICCIA 2017 oral presentation
+
+Wang, H. Liu, X. *Ye, W.* Everlasting Iatric Researcher (Eir): Identifying the Article and Reading for Genetic Association Knowledge. 5th Annual LTI Student Research Symposium poster
+
+
+== Honors & Awards
+
+[http://www.comap-math.com/mcm/2016Certs/45098.pdf Interdisciplinary Contest In Modeling Meritorious Winner], 2016\n
+National Scholarship for three straight years (*Top 1%*), 2015-2017\n
+BUPT Mathemetics Compettition Third prize, 2015\n
+Caifang Zhuang·Chongwen Zhuang Scholarship (200 students in Fujian Province), 2014\n
+National Olympiad in Informatics in Provinces (NOIP) first prize, 2013\n
+
